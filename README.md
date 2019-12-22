@@ -9,5 +9,6 @@ The purpose of this repository to demonstrate different classification algorithm
 History:
 
 2019.12.22.: Random forest classification : Titanic_random_forest_classification.ipynb
+
                                             Titanic_random_forest_classification.py
-						
+
