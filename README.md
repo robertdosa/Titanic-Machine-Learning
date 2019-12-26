@@ -125,3 +125,4 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 History:
 
 2019.12.22.: Random forest classification : Titanic_random_forest_classification.ipynb
+2019.12.26.: K-nearest neighbors classification: Titanic_K-nearest_neighbors_classification.ipynb
